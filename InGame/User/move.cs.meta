@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 5c5a5233ea80cc241bf1154685ad4b51
+timeCreated: 1498451949
+licenseType: Pro
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - animator_: {instanceID: 0}
+  - controller: {instanceID: 0}
+  - Attack_Button: {instanceID: 0}
+  - Attack1: {fileID: 8300000, guid: adc6bce75cf8bf84a9efa960a19eb6b9, type: 3}
+  - Attack2: {fileID: 8300000, guid: 8b1d8952123b5e749903ac47589af9b3, type: 3}
+  - Attack3: {fileID: 8300000, guid: 69f9c82d98c2b1e479fafcb939b76ad7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

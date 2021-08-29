@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 02c4cd29f80c8994eae865be3b5222fe
+timeCreated: 1517046929
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Hunter_: {fileID: 1624751139877320, guid: e4a2f624056ef434f920a874b650ce63, type: 2}
+  - Runner_: {fileID: 1695593931599540, guid: 2c80d2562a630744ca36d24c2b383982, type: 2}
+  - Citizen_: {fileID: 1821740402735490, guid: d75e36d415092d14297db4d4792229ff, type: 2}
+  - Hunter_Position: {instanceID: 0}
+  - Runner_Positon: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

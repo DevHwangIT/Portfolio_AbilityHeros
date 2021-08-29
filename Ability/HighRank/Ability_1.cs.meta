@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bea70c2b606304d469d815a4238bfd3a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Skill_Icon: {fileID: 21300000, guid: 103aa65372ec932478c4c9c47ce081a9, type: 3}
+  - Skill_Effect: {fileID: 1300368572252680, guid: 6e65b75483611e84293d56862da86a65,
+      type: 2}
+  - Skill_Sound: {fileID: 8300000, guid: 8787a22db31fdb041b2ed1b4cb3617e4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
